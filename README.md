@@ -5,9 +5,11 @@ Simple calculator using Python.
 -Subtraction
 -Multiplication
 -Division
+
 ##Built with
 -Python
 -VS Code
+
 ##Author 
 Lakshmi Charitha J
 
